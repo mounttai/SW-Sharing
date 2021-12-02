@@ -1,8 +1,7 @@
 # SW-Sharing
 
 
-Materials used in the online sharing session about Sharing Economy for <a href="
-http://www.shinewinginternational.com" target="_blank">Shine Wing International</a> and their clients, including:
+Materials used in the online sharing session about Sharing Economy for [Shine Wing International](http://www.shinewinginternational.com) and their clients, including:
 
 * the [slides deck](SW-DaiYao-SE_20211202.pdf)
 * code to generate the wind clouds on slide 5
